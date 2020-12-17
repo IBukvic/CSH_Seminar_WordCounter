@@ -1,0 +1,22 @@
+C:\Users\Ivan\Desktop\Seminar---csharp-master\Seminar - csharp\obj\Debug\Seminar - csharp.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Seminar---csharp-master\Seminar - csharp\obj\Debug\Seminar___csharp.Form1.resources
+C:\Users\Ivan\Desktop\Seminar---csharp-master\Seminar - csharp\obj\Debug\Seminar___csharp.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Seminar---csharp-master\Seminar - csharp\obj\Debug\Seminar - csharp.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Seminar---csharp-master\Seminar - csharp\obj\Debug\Seminar - csharp.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Seminar---csharp-master\Seminar - csharp\bin\Debug\Seminar - csharp.exe.config
+C:\Users\Ivan\Desktop\Seminar---csharp-master\Seminar - csharp\bin\Debug\Seminar - csharp.exe
+C:\Users\Ivan\Desktop\Seminar---csharp-master\Seminar - csharp\bin\Debug\Seminar - csharp.pdb
+C:\Users\Ivan\Desktop\Seminar---csharp-master\Seminar - csharp\obj\Debug\Seminar___csharp.AboutBox1.resources
+C:\Users\Ivan\Desktop\Seminar---csharp-master\Seminar - csharp\obj\Debug\Seminar - csharp.exe
+C:\Users\Ivan\Desktop\Seminar---csharp-master\Seminar - csharp\obj\Debug\Seminar - csharp.pdb
+C:\Users\Ivan\Desktop\C# Seminar\Seminar - csharp\bin\Debug\Seminar - csharp.exe.config
+C:\Users\Ivan\Desktop\C# Seminar\Seminar - csharp\bin\Debug\Seminar - csharp.exe
+C:\Users\Ivan\Desktop\C# Seminar\Seminar - csharp\bin\Debug\Seminar - csharp.pdb
+C:\Users\Ivan\Desktop\C# Seminar\Seminar - csharp\obj\Debug\Seminar - csharp.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\C# Seminar\Seminar - csharp\obj\Debug\Seminar___csharp.AboutBox1.resources
+C:\Users\Ivan\Desktop\C# Seminar\Seminar - csharp\obj\Debug\Seminar___csharp.Form1.resources
+C:\Users\Ivan\Desktop\C# Seminar\Seminar - csharp\obj\Debug\Seminar___csharp.Properties.Resources.resources
+C:\Users\Ivan\Desktop\C# Seminar\Seminar - csharp\obj\Debug\Seminar - csharp.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\C# Seminar\Seminar - csharp\obj\Debug\Seminar - csharp.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\C# Seminar\Seminar - csharp\obj\Debug\Seminar - csharp.exe
+C:\Users\Ivan\Desktop\C# Seminar\Seminar - csharp\obj\Debug\Seminar - csharp.pdb
